@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+numpy
+opencv-python-headless
+scikit-image
+scikit-learn
+POT
+matplotlib
+gudhi
+python-multipart
+pandas
+seaborn
+pillow
+GPyOpt
